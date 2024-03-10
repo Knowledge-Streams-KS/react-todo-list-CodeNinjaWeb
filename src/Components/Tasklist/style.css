@@ -1,0 +1,26 @@
+.to-do{
+    background-color: bisque;
+    margin: auto;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border: 2px solid black;
+}
+h3{
+    font-weight: bolder;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+}
+p{
+    color: red;
+    font-weight: bolder;
+}
+#deletebutton{
+    color: red;
+    font-weight: bolder;
+}
+.searchbar{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    align-self: center;
+}
